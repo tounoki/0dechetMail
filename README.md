@@ -6,3 +6,4 @@ En redonnant une matérialité aux mails et en fournissant de nombreuses informa
 
 Le matériel de cet atelier est diffusé sous licence CC-BY-SA
 
+![Image du jeu](https://github.com/tounoki/0dechetMail/blob/main/IMG_5532.JPG_ecran.jpg)
